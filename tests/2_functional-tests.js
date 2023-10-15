@@ -55,5 +55,5 @@ suite('Functional Tests', function() {
       assert.equal(returnUnit, 'lbs');
       assert.equal(string, '1 kilograms converts to 2.20462 pounds');
     });
-  });
+  }); 
 });
